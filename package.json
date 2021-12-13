@@ -1,0 +1,11 @@
+{
+    "name": "@ohad1992/my-first-package",
+    "version": "1.1.0",
+    "main": "index.js",
+    "dependencies": {
+        "@ohad1992/my-first-package": "^1.1.0"
+    },
+    "files": [
+        "index.js"
+    ]
+}
